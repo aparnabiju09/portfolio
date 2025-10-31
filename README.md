@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aparna Biju  
-🚀 Aspiring Data & Software Engineer | EPAM Intern Trainee  
+🚀 Aspiring Data & Software Engineer
 
 ---
 
